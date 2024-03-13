@@ -1,1 +1,3 @@
 # FastCAR
+
+The **Advanced Steel Property dataset** is a dataset relevant for a classification and a regression task in Multi-Task Learning (MTL), where the tasks show heterogeneity with only subtle correlation between the tasks. The dataset is relevant for object classification and its property modeling via regression, without any localization while performing the two tasks. Each image was annotated with a classification label and a regression label. More specifically, the object classes indicate different steel types, particularly their microstructures (occupying the entire image frame), while the continuous property variable is hardness.
